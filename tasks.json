@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "description": "go to gym",
+    "status": "In progress",
+    "createdAt": "Sun, 06 Oct 2024 15:56:30 GMT",
+    "updatedAt": "Sun, 06 Oct 2024 15:56:30 GMT"
+  },
+  {
+    "id": 1,
+    "description": "eat dinner",
+    "status": "Done",
+    "createdAt": "Sun, 06 Oct 2024 15:56:32 GMT",
+    "updatedAt": "Sun, 06 Oct 2024 15:56:32 GMT"
+  }
+]
